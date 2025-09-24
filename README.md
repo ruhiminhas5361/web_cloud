@@ -1,3 +1,3 @@
 # web_cloud
-This is my first Git Repository.
+web cloud web based cloud storage for secure data sharing across platforms
 Author - Ruhiminhas
